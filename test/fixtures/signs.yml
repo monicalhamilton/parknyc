@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  x_coordinate: 9.99
+  y_coordinate: 9.99
+  street_location_id: 
+  object_id: 
+  sequence_number: 1
+  sign_code: MyString
+  curb_distance_feet: 1
+  sign_faces: MyString
+  sign_arrows: MyString
+  sign_description: MyString
+
+two:
+  x_coordinate: 9.99
+  y_coordinate: 9.99
+  street_location_id: 
+  object_id: 
+  sequence_number: 1
+  sign_code: MyString
+  curb_distance_feet: 1
+  sign_faces: MyString
+  sign_arrows: MyString
+  sign_description: MyString

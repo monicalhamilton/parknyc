@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  borough_key: MyString
+  order_number: MyString
+  main_street: MyString
+  from: 
+  to_street: MyString
+  side_of_street: MyString
+
+two:
+  borough_key: MyString
+  order_number: MyString
+  main_street: MyString
+  from: 
+  to_street: MyString
+  side_of_street: MyString
